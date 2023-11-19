@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is Second File i Want to Create
+=======
+Third file for Branch b3
+>>>>>>> b3
+this is change in this file
